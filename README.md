@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Young coder, <br>I want to have my own cyber security company in the future<br>and I want to work in cyber security or software engineering in an organization until I start my own company
+Young coder, I want to work in my own cybersecurity company. Until I start my own company, I want to work in a cyber security branch or software engineering branch in a company. In this process, I want to advance myself in advanced coding in software languages as well as cyber security
 
 ## 🌐 Socials:
 
