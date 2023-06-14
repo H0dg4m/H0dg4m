@@ -23,10 +23,6 @@ Young coder, <b>I want to work in my own cybersecurity company
 
 ![](https://github-profile-trophy.vercel.app/?username=H0dg4m&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=H0dg4m)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
