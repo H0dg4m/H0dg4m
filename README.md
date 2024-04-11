@@ -27,11 +27,6 @@ Young coder, <b>I want to work in my own cybersecurity company
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=H0dg4m&icon=2&color=8)](https://visitcount.itsvg.in)
 
